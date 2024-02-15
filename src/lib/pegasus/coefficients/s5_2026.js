@@ -100,8 +100,6 @@ export default {
             _subject: 1,
             'TP.*': 0.7,
             'EXAM.*': 0.3
-            // TP 0.7
-            // QCM 0.3
         },
         SYS1: {
             _subject: 1,
@@ -134,17 +132,11 @@ export default {
     MSH1: {
         // TODO: Update when the grades are published
         ODP1: {
-            _subject: 2,
+            _subject: 1.5,
             '.*': 1
         },
-        EQIT: {
-            _subject: 1,
-            // 40% QCM
-            // 50% Essai/mémoire
-            // 10% CC
-        },
         LV: {
-            _subject: 1,
+            _subject: 0.75,
             // Anglais:
             // 30% Exam 1
             // 40% Exam 2
@@ -153,7 +145,9 @@ export default {
             // Rosetta = une note
         },
         COMM1: {
-            _subject: 1,
+            _subject: 0.75,
+            'TPs': 0.3,
+            '.*42SH': 0.45
         }
     },
     CCE1: {
@@ -163,20 +157,24 @@ export default {
             // 60% Etude de cas
             // 40% Exam
         },
-        RSE: {
-            // 40% CC,
-            // 60% Exam
-        },
         DRG1_S5: {
             _subject: 1
         },
-        DENT: {
-
+        ETHIX: {
+            _subject: 1
         },
         EQIT: {
             _subject: 1,
             'PARTICI.*': 0.15,
             'EXAM': 0.6
-        }
+        },
+        
+        DENT: {
+
+        },
+        RSE: {
+            // 40% CC,
+            // 60% Exam
+        },
     }
 };
