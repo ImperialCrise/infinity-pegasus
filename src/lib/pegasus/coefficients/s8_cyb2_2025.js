@@ -11,74 +11,76 @@
 // TODO: This was imported from past year, it will need to be updated when the syllabus is released
 
 export default {
-  AEE2: {
-    A_EAE2: {
-      _subject: 6,
-    },
-    A_M_ANSSI: {
-      _subject: 0.5,
-    },
-    A_REX2: {
-      _subject: 1.5,
-    }
-  },
-  MAF2: {
-    A_ALSD: {
+  MAIF4: {
+    A_A_CRYP1: {
       _subject: 2,
     },
-    A_ERO: {
+    A_PROC: {
       _subject: 1,
     },
-    A_APFX: {
+    A_TEC1: {
+      _subject: 1,
+    }
+  },
+  GLPS4: {
+    A_IDVOC: {
+      _subject: 1,
+    },
+    A_A_CMAN: {
+      _subject: 1,
+    },
+    A_WSEC1: {
       _subject: 2,
     },
-    A_FMSI: {
+    A_ARS2: {
       _subject: 1,
     }
   },
-  IF2: {
-    MOB1: {
+  SIS4: {
+    A_SWARD: {
       _subject: 1,
     },
-    A_THL: {
+    A_REVE: {
       _subject: 1.5,
     },
-    PFON: {
+    "A_TATT S8": {
       _subject: 1.5,
     },
-    A_THEG: {
+    A_FOR_A: {
+      _subject: 1,
+    },
+    A_AMAL: {
       _subject: 1,
     }
   },
-  MCE2: {
-    'A_ANGL-2': {
+  MCE4: {
+    'A_ANGL-4': {
       _subject: 1,
     },
-    A_EMARK: {
+    A_APOLS: {
       _subject: 1,
     },
-    A_TEORA2: {
+    A_M_SST: {
       _subject: 1,
-    },
-    A_GPRO1: {
-    _subject: 1,
     }
   },
-  GLSR2: {
-    A_A_JAVA: {
-      _subject: 1.5,
-    },
-    A_JWS: {
+  MININT: {
+    A_NETT: {
       _subject: 1,
     },
-    A_E_JS: {
-      _subject: 1.5,
-    },
-    A_SYS2: {
-      _subject: 2,
-    },
-    A_NET2: {
+    A_IOT: {
       _subject: 1,
+    },
+    A_FINT: {
+      _subject: 1,
+    },
+    "A-IA": {
+      _subject: 1,
+    }
+  },
+  AEE4: {
+    A_EAE4: {
+      _subject: 8
     }
   }
 };

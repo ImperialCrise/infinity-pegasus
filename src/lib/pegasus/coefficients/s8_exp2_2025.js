@@ -11,74 +11,42 @@
 // TODO: This was imported from past year, it will need to be updated when the syllabus is released
 
 export default {
-  AEE2: {
-    A_EAE2: {
-      _subject: 6,
-    },
-    A_M_ANSSI: {
-      _subject: 0.5,
-    },
-    A_REX2: {
+  GLPS4: {
+    X_BAGD2: {
       _subject: 1.5,
-    }
-  },
-  MAF2: {
-    A_ALSD: {
+    },
+    X_CLARC: {
       _subject: 2,
     },
-    A_ERO: {
+    X_DEVOPS: {
       _subject: 1,
     },
-    A_APFX: {
-      _subject: 2,
-    },
-    A_FMSI: {
-      _subject: 1,
+    x_DOTN: {
+      _subject: 1.5,
     }
   },
-  IF2: {
-    MOB1: {
-      _subject: 1,
+  PWM2: {
+    X_GAMJA: {
+      _subject: 3,
     },
-    A_THL: {
+    X_NDJS8: {
+      _subject: 2.5,
+    },
+    X_SEO: {
       _subject: 1.5,
-    },
-    PFON: {
-      _subject: 1.5,
-    },
-    A_THEG: {
-      _subject: 1,
     }
   },
-  MCE2: {
-    'A_ANGL-2': {
-      _subject: 1,
+  MCE4: {
+    'X_ANGL-4': {
+      _subject: 1.5,
     },
-    A_EMARK: {
-      _subject: 1,
-    },
-    A_TEORA2: {
-      _subject: 1,
-    },
-    A_GPRO1: {
-    _subject: 1,
+    X_M_SST: {
+      _subject: 1.5,
     }
   },
-  GLSR2: {
-    A_A_JAVA: {
-      _subject: 1.5,
-    },
-    A_JWS: {
-      _subject: 1,
-    },
-    A_E_JS: {
-      _subject: 1.5,
-    },
-    A_SYS2: {
-      _subject: 2,
-    },
-    A_NET2: {
-      _subject: 1,
+  AEE4: {
+    X_EAE4: {
+      _subject: 10,
     }
   }
 };
